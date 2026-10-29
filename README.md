@@ -24,8 +24,6 @@ At a startup, I developed conversion forecasts using Beta distributions and Mont
 
 I work with **Python, R, and SQL**, and use **Git and LaTeX** for code and reports.
 
-I work with **Python, R, and SQL**, and use **Git and LaTeX** for code and reports.
-
 ## 🚵 Away from the screen 𓄂𓆃
 
 I enjoy mountain biking, gravel riding, and spending time in nature.
