@@ -20,7 +20,9 @@ A browser tool that turns images into string art through greedy optimisation. A 
 
 ## 📊 Statistics in practice
 
-At Holifya, I developed conversion forecasts using Beta distributions and Monte Carlo simulation. Recent leads had not yet had enough time to convert, so I used older cohorts' timing patterns to adjust for incomplete observation and tested forecasts on held-out cohorts. Limited mature data made reliability difficult to establish. That experience is behind my interest in how assumptions about the observation process affect both predictions and their uncertainty.
+At a startup, I developed conversion forecasts using Beta distributions and Monte Carlo simulation. Recent leads had not yet had enough time to convert, so I used older cohorts' timing patterns to adjust for incomplete observation and tested forecasts on held-out cohorts. Limited mature data made reliability difficult to establish. That experience is behind my interest in how assumptions about the observation process affect both predictions and their uncertainty.
+
+I work with **Python, R, and SQL**, and use **Git and LaTeX** for code and reports.
 
 I work with **Python, R, and SQL**, and use **Git and LaTeX** for code and reports.
 
